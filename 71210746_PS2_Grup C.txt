@@ -1,0 +1,4 @@
+Ember yang terlebih dahulu akan terisi penuh adalah ember B
+karena air yang mengalir menuju ember A mengalami kebuntuan 
+kemudian air terus tumpah ke ember D namun jalurnya tertutup
+Lalu begitu pula dengan jalur C yang menyebabkan air akan mengalir ke ember B
